@@ -1,4 +1,4 @@
 JSSnippets
 ==========
 
-Some very usefull snippets for JS
+* [![Build Status](https://travis-ci.org/birhoff/JSSnippets.png?branch=master)](https://travis-ci.org/birhoff/JSSnippets)
