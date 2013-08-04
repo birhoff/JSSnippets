@@ -13,6 +13,16 @@
   "author": "Alias Birhoff",
   "license": "MIT",
   "devDependencies": {
-    "karma": "0.9.7"
+      "karma-script-launcher": "0.0.2",
+      "karma-chrome-launcher": "0.0.2",
+      "karma-firefox-launcher": "0.0.3",
+      "karma-html2js-preprocessor": "0.0.2",
+      "karma-jasmine": "0.0.3",
+      "karma-requirejs": "0.0.3",
+      "karma-coffee-preprocessor": "0.0.3",
+      "karma-phantomjs-launcher": "0.0.2",
+      "karma": "~0.9.6",
+      "karma-mocha": "0.0.4",
+      "karma-chai": "git+https://github.com/xdissent/karma-chai.git"
   }
 }
