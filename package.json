@@ -13,6 +13,6 @@
   "author": "Alias Birhoff",
   "license": "MIT",
   "devDependencies": {
-    "karma": "0.x.x"
+    "karma": "0.8.x"
   }
 }
